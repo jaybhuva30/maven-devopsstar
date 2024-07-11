@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps master Learning at Devops TechLab, iscon imporio Ahmedabad. Happy to see you all at Jenkins Training. Testing continuous Deployment</h1>
+    <h1>New user Register for DevOps master Learning at Devops TechLab, iscon imporio Ahmedabad.
+</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
